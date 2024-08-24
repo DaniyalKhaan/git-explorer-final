@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgit_explorer=self.webpackChunkgit_explorer||[]).push([[725],{725:function(e,r,n){n.r(r);n(791);var o=n(87),t=n(184);r.default=function(){return(0,t.jsxs)("div",{children:[(0,t.jsx)("h1",{children:"Page Not Found"}),(0,t.jsx)(o.rU,{to:"/",children:" Go Back To Home Page"})]})}}}]);
+//# sourceMappingURL=725.4339941b.chunk.js.map

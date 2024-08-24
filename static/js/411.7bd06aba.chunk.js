@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgit_explorer=self.webpackChunkgit_explorer||[]).push([[411],{411:function(e,r,t){t.r(r);var u=t(184);r.default=function(){return(0,u.jsx)("h1",{children:"About Us Page"})}}}]);
+//# sourceMappingURL=411.7bd06aba.chunk.js.map
